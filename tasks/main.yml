@@ -1,0 +1,7 @@
+---
+- name: Installing atom packages using snap
+  become: true
+  snap:
+    name: "atom"
+    classic: "yes"
+    state: present
