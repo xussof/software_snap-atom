@@ -1,9 +1,9 @@
 ---
-- src: https://github.com/xussof/software_snapd
+- src: git@github.com:xussof/software_snapd
   scm: git
   version: master
   name: xussof.software_snapd
-- src: https://github.com/xussof/software_ansible
+- src: git@github.com:xussof/software_ansible
   scm: git
   version: master
   name: xussof.software_ansible
